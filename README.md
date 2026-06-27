@@ -49,7 +49,7 @@ Build a rover capable of autonomous waypoint navigation across diverse terrains 
 
 ## 🔌 Circuit Overview
 
-![Circuit Diagram](images/circuit_diagram.png)
+![Circuit Diagram](circuit_diagram.png)
 
 The Raspberry Pi 4B acts as the brain of the system. Key connections:
 
@@ -61,7 +61,7 @@ The Raspberry Pi 4B acts as the brain of the system. Key connections:
 - **Servo Motors** → controlled via GPIO PWM for pan/tilt
 - **LM2596 Buck Converter** → steps down battery voltage for stable 5V supply to Pi and sensors
 
-![Raspberry Pi 4 Pinout](images/raspberry-pi-4-pin.webp)
+![Raspberry Pi 4 Pinout](raspberry-pi-4-pin.webp)
 
 ---
 
