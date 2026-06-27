@@ -40,7 +40,7 @@ Build a rover capable of autonomous waypoint navigation across diverse terrains 
 | **Motor Driver** | L298N Dual H-Bridge | Motor speed & direction control |
 | **Camera** | Raspberry Pi Camera Module | Real-time visual perception |
 | **GPS** | GPS Antenna (1575.42 MHz, 2.7–5.0V) | Waypoint navigation & zone mapping |
-| **IMU** | MPU-6050 (I2C) | Orientation, tilt & sensor fusion |
+| **IMU** | MPU-9250 | Orientation, tilt & sensor fusion |
 | **Wireless** | ESP32 / WiFi Module | Remote communication & control |
 | **Servo Motors** | 2× Servo | Camera pan/tilt & steering mechanism |
 | **Power** | LM2596 Buck Converter + Switch | Regulated power distribution |
