@@ -36,6 +36,7 @@ Build a rover capable of autonomous waypoint navigation across diverse terrains 
 | Component | Model / Spec | Role |
 |---|---|---|
 | **Compute** | Raspberry Pi 4B | Central processing & autonomous logic |
+| **LiDAR** | YDLIDAR X2 | 360° obstacle detection & zone mapping |
 | **Motors** | 6× DC Motors | 6-wheel drive for terrain mobility |
 | **Motor Driver** | L298N Dual H-Bridge | Motor speed & direction control |
 | **Camera** | Raspberry Pi Camera Module | Real-time visual perception |
