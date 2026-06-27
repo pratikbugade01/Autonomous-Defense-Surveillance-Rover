@@ -9,7 +9,7 @@
 
 | Side View | Top View |
 |-----------|----------|
-| ![Rover Side View](images/Rover1.jpeg) | ![Rover Top View](images/Rover2.jpeg) |
+| ![Rover Side View](Rover1.jpeg) | ![Rover Top View](Rover2.jpeg) |
 
 ---
 
