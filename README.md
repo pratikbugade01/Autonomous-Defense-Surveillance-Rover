@@ -58,6 +58,7 @@ The Raspberry Pi 4B acts as the brain of the system. Key connections:
 - **MPU-6050 IMU** → connected via I2C (SDA/SCL) for real-time orientation data
 - **GPS Module** → connected via UART (TX/RX) for waypoint coordinates
 - **Camera Module** → connected via CSI ribbon cable for live vision
+- **YDLIDAR X2** → connected via USB to Raspberry Pi for 360° real-time LiDAR scanning
 - **ESP32** → connected via USB/UART for wireless communication
 - **Servo Motors** → controlled via GPIO PWM for pan/tilt
 - **LM2596 Buck Converter** → steps down battery voltage for stable 5V supply to Pi and sensors
